@@ -36,6 +36,8 @@ end
 gem 'spree', github: 'spree/spree', branch:'2-2-stable'
 
 gem 'spree_auth_devise', github: 'spree/spree_auth_devise', branch: '2-2-stable'
+
+gem 'spree_static_content', github: 'spree/spree_static_content', branch: '2-2-stable'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
